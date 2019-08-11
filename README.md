@@ -1,3 +1,3 @@
-# test-repo-for-prmonitor
+# PR Monitor demo
 
-blah
+This repository is exclusively meant to test [PR Monitor](https://github.com/fwouts/prmonitor).
